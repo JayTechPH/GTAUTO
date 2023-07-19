@@ -47,7 +47,7 @@ To use the project, follow these steps:
 
 ![tutorial](361986145_989411775711251_8291980216540312607_n.png)
 
-You can reapet the pattern the side have 5 platform
+You can reapet the pattern
 
 NOTE!!! the sign and platform are very important!!
 
