@@ -2,13 +2,15 @@
 
 ![Project Logo](icon.ico)
 
-GTAUTO short for GrowtopiaAuto this app will automate break farmable this will help you to break farmable and save world lock for hiring.
+GTAUTO, short for GrowtopiaAuto, is an application that automates the process of breaking farmables in the game Growtopia. This tool can help you save world locks by automating the task of breaking farmables instead of hiring others to do it for you.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributing](#contributing)
 - [License](#license)
+- [Educational Purpose](#educational-purpose)
 
 ## Installation
 
@@ -39,11 +41,16 @@ Make sure you have the necessary permissions and requirements to run the code su
 
 ## Usage
 
-Explain how to use the project and provide examples or code snippets.
+To use the project, follow these steps:
+
+1. Import the project module into your Python script:
+   ```python
+   import project
+   ```
+
+2. Use the provided code example or write your own code to interact with the GTAUTO features.
 
 ```python
-import project
-
 # Code example
 ```
 
@@ -63,6 +70,7 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 
 Feel free to reach out if you have any questions or feedback. Happy coding!
 
-#Educational Purpose
+## Educational Purpose
 
 This project is intended for educational purposes only. It serves as a demonstration of how to automate certain tasks using Python and the [pyautogui] library. The code provided here should be used responsibly and in accordance with the terms and conditions of the platforms or applications it interacts with. The project authors and contributors are not responsible for any misuse or illegal activities performed using this project.
+```
