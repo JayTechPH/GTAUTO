@@ -8,7 +8,6 @@ GTAUTO short for GrowtopiaAuto this app will automate break farmable this will h
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -58,16 +57,9 @@ We welcome contributions from the community. To contribute to the project, pleas
 4. Test your changes.
 5. Submit a pull request.
 
-For more detailed instructions, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
-
-## Contact
-
-- Email: yourname@example.com
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 Feel free to reach out if you have any questions or feedback. Happy coding!
 FOR EDUCATIONAL PURPOSE ONLY
