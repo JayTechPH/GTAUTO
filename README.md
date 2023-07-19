@@ -46,10 +46,12 @@ To use the project, follow these steps:
 2. Create farm like this :
 
 start from left
-![tutorial](image.png)
-and from the right
 ![tutorial](image-1.png)
+and from the right
+![tutorial](image-2.png)
 and repeat the pattern
+
+NOTE!!! the sign and platform are very important!!
 
 3. Place all farmable
 4. Start to bottom left corner
