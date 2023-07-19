@@ -45,12 +45,9 @@ To use the project, follow these steps:
 1. Run the code.
 2. Create farm like this :
 
-start from left
-![tutorial](image-1.png)
-and from the right
-![tutorial](image-2.png)
-and repeat the pattern
+![tutorial](361986145_989411775711251_8291980216540312607_n.png)
 
+You can reapet the pattern
 NOTE!!! the sign and platform are very important!!
 
 3. Place all farmable
