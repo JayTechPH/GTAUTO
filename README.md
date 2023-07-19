@@ -42,16 +42,18 @@ Make sure you have the necessary permissions and requirements to run the code su
 
 To use the project, follow these steps:
 
-1. Import the project module into your Python script:
-   ```python
-   import project
-   ```
+1. Run the code.
+2. Create farm like this :
 
-2. Use the provided code example or write your own code to interact with the GTAUTO features.
+start from left
+![tutorial](image.png)
+and from the right
+![tutorial](image-1.png)
+and repeat the pattern
 
-```python
-# Code example
-```
+3. Place all farmable
+4. Start to bottom left corner
+5. And run the app
 
 ## Contributing
 
