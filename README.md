@@ -10,7 +10,6 @@ GTAUTO, short for GrowtopiaAuto, is an application that automates the process of
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Educational Purpose](#educational-purpose)
 
 ## Installation
 
