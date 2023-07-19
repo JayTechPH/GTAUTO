@@ -47,7 +47,8 @@ To use the project, follow these steps:
 
 ![tutorial](361986145_989411775711251_8291980216540312607_n.png)
 
-You can reapet the pattern
+You can reapet the pattern the side have 5 platform
+
 NOTE!!! the sign and platform are very important!!
 
 3. Place all farmable
