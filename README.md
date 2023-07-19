@@ -72,4 +72,4 @@ Feel free to reach out if you have any questions or feedback. Happy coding!
 
 ## Educational Purpose
 
-This project is intended for educational purposes only. It serves as a demonstration of how to automate certain tasks using Python and the [pyautogui] library. The code provided here should be used responsibly and in accordance with the terms and conditions of the platforms or applications it interacts with. The project authors and contributors are not responsible for any misuse or illegal activities performed using this project.
+This project is intended for educational purposes only. It serves as a demonstration of how to automate certain tasks using Python and the [pyautogui](https://pypi.org/project/PyAutoGUI/) library. The code provided here should be used responsibly and in accordance with the terms and conditions of the platforms or applications it interacts with. The project authors and contributors are not responsible for any misuse or illegal activities performed using this project.
