@@ -17,7 +17,7 @@ To install and run the provided code, follow the steps below:
 
 1. Clone the repository to your local machine:
    ```bash
-   $ git clone https://github.com/yourusername/project.git
+   $ git clone https://github.com/JayTechPH/GTAUTO.git
    ```
 
 2. Navigate to the project directory:
